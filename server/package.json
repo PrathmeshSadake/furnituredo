@@ -1,0 +1,26 @@
+{
+  "name": "furnituredo-backend",
+  "version": "1.0.0",
+  "description": "e-commerce portal for furniture sales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrathmeshSadake/furnituredo.git"
+  },
+  "author": "Prathmesh Sadake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrathmeshSadake/furnituredo/issues"
+  },
+  "homepage": "https://github.com/PrathmeshSadake/furnituredo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14"
+  }
+}
